@@ -1,8 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tj1UiMrC)
-# lab-template
+# Unsupervised Clustering of Steam Games
 
-Шаблонный репозиторий лабораторный по курсу Машинного Обучения
+Clustering study for discovering groups of similar Steam games.
 
-Используйте ссылку на задания в Github Classroom, чтобы преподаватель мог проверить ваш код
-
-Загружайте код в main ветку, чтобы github classroom корректно создавал Feedback Pull Request. Следите за комментариями в этом pull request, чтобы не задерживать ответ вашему преподавателю
+The project implements K-Means from scratch, compares it with scikit-learn, evaluates clusters with Silhouette Score, and visualizes the result in a reduced feature space with UMAP.
